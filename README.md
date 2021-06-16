@@ -6,3 +6,5 @@ This simple hash table uses a template and can store key, value pairs. The table
 uses 10 vector indicies to store items (0 - 9). Keys must be strings, but values can be any data type. 
 
 This table can perform insertion, deletion, searching by key, accessing value by key using [ ] operator, and can change value of existing item. 
+
+The Main function performs a demonstration to show that everything functions as expected.
